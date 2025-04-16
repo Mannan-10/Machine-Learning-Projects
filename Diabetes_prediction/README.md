@@ -39,6 +39,9 @@ pip install numpy pandas scikit-learn matplotlib
 1. Clone the repository:
     ```bash
     git clone https://github.com/Mannan-10/Machine-Learning-Projects/Diabetes_prediction.git
+    ```
+
+    ```bash
     cd Diabetes_prediction
     ```
 
