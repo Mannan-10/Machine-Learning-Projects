@@ -36,7 +36,7 @@ To run this project, you need the following Python libraries:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Mannan_10/Machine-Learning-Projects/Medical-Insurance-Cost-Prediction.git
+    git clone https://github.com/Mannan-10/Machine-Learning-Projects/Medical-Insurance-Cost-Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
